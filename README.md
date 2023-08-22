@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lmalcervelli
-- 👀 I’m interested in solving puzzles and learning something new.
-- 🌱 I’m currently learning C# and Java.
+- 👀 I’m looking for my first programming job.
+- 🌱 I’m currently expanding my JavaScript and Advanced Python skills.
 - 💞️ I’m looking to collaborate on challenging projects.
 - 📫 How to reach me laura.m.malcervelli@gmail.com
 
